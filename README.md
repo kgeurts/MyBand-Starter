@@ -65,11 +65,11 @@ Deze fase duurt 3 weken
 
 #### Fase 3: Testen en opleveren van het project
 
-| Milestone                                    | Status | Link                           |
-| -------------------------------------------- | ------ | ------------------------------ |
-| B1-K3-W2 Link naar de live omgeving          | TODO   | <https://mijnliveomgeving.com> |
-| B1-K3-W2 Gebruikersdocumentatie / instructie | TODO   | [Gebruikers documentatie]      |
-| B1-K3-W3 Evaluatie                           | TODO   | [Evaluatie]                    |
+| Milestone                                    | Status | Link                                 |
+| -------------------------------------------- | ------ | ------------------------------------ |
+| B1-K3-W2 Link naar de live omgeving          | TODO   | <"www.regiliospee.nl/proj/my-band/"> |
+| B1-K3-W2 Gebruikersdocumentatie / instructie | TODO   | [Gebruikers documentatie]            |
+| B1-K3-W3 Evaluatie                           | TODO   | [Evaluatie]                          |
 
 [gebruikers documentatie]: doc/fase-3/gebruikersdocumentatie.md
 [evaluatie]: doc/fase-3/evaluatie.md
