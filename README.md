@@ -60,7 +60,7 @@ Deze fase duurt 3 weken
 
 [backlog]: /doc/fase-2/technisch-ontwerp.md
 [to]: /doc/fase-2/technisch-ontwerp.md
-[trello]: https://trello.com/b/He6JX83u/myband-sprints
+[trello]: https://trello.com/b/nLCetBiP/proj-planning-myband
 [trello tips]: https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work
 
 #### Fase 3: Testen en opleveren van het project
