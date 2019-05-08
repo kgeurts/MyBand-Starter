@@ -1,8 +1,8 @@
-## Titel van jouw websitea
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+## Titel van jouw website (SOON)
+http://project.kevin-geurts.nl/ is een website van Kevin waar Netflix alle nieuwste info kunnen zien over Netflix en zijn series.
+De website is enigszins te vergelijken met de Twitter van Netflix of https://www.netflix-nederland.nl/ maar toch anders omdat deze website de nieuwste info heeft!
 
-### Uniek aan dit concept is: 
+### Uniek aan dit concept is: (SOON)
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
  * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
 
@@ -23,7 +23,7 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
-| README                                            | TODO | [README.md]  (dit document)          | MarkDown |
+| README                                            | TODO | [README.md]  				          | MarkDown |
 | B1-K1-W1 Debriefing                               | TODO | [Debriefing]                         | Markdown |
 | B1-K1-W2 Planning                                 | TODO | [Planning]                           | Markdown |
 | B1-K1-W2 Plan van aanpak                          | TODO | [Plan van Aanpak]                    | Markdown of Word/RTF|
@@ -35,7 +35,7 @@ Deze fase duurt 3 weken
 | B1-K1-W2 Sfeer impressie / schermontwerpen        | TODO | [Design]                             | Afbeeldingen |
 
 [Kwalificatiedossier]: https://kwalificaties.s-bb.nl/Handlers/DocumentLibrary.ashx?id=276758
-[README.md]: <https://github.com/JouwGithubNaam/myband/blob/master/README.md>
+[README.md]: <https://github.com/kgeurts/MyBand-Starter/blob/master/README.md>
 [Debriefing]: <doc/fase-1/debriefing.md>
 [Planning]: <doc/fase-1/planning.md>
 [Plan van Aanpak]: <doc/fase-1/plan-van-aanpak.md>
@@ -63,7 +63,7 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <https://mijnliveomgeving.com> |
+| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <http://project.kevin-geurts.nl/ > |
 | B1-K3-W2 Gebruikersdocumentatie / instructie               |  TODO |  [Gebruikers documentatie] |
 | B1-K3-W3 Evaluatie                                         |  TODO |  [Evaluatie] |
 
