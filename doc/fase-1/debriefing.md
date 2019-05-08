@@ -1,6 +1,6 @@
 **DEBRIEFING**
 
-| Kevin GeurtsMD1B Plaats, datum, tijd. Amsterdam , 8 Mei 2019. 14:15 | 
+| Kevin Geurts MD1B Plaats, datum, tijd. Amsterdam , 8 Mei 2019. 14:15 | 
 
 Klant gegevens:g.tijhof@ma-web.nl
 h.braun@ma-web.nl
@@ -8,7 +8,7 @@ m.despotovic@ma-web.nl
 t.denblanken@ma-web.nl
 e.willems@ma-web.nl
 e.schenk@ma-web.nl |
-| --- | --- |
+
 
 **In dit Project gaan ik een opdracht voor een klant maken genaamd MyBand. Voor het vak Project heb ik van Hidde Braun een opdracht gekregen om een website te maken**  **over een bepaald onderwerp, Ik heb gekozen om een website te maken over de laatste nieuwtjes van Netflix.**
 
