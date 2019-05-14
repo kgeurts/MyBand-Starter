@@ -2,7 +2,7 @@
 
 www.regiliospee.nl/proj/my-band/ is een website van Regilio Spee waar gebruikers kunnen (..nut geb0m
 ruiker..) bedoeld voor jong en oud
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+De website is enigszins te vergelijken met (https://welovetheearth.org/) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is:
 
