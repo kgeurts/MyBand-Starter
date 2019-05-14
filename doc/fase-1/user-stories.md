@@ -18,10 +18,10 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 | 7      | GEBRUIKER | wil ik de sociale media volgen                             | ik op de hoogte word gehouden.                          | C              |
 | 8      | GEBRUIKER | wil ik doormiddel van een formulier een mail kunnen sturen | ik contact kan leggen                                   | C              | 
 *
-
-
-
-
+*
+*
+*
+*
 *
 | 1 | BEHEERDER		 | Wil ik een post kunnen toevoegen  					   	  | ik mijn website up to date hou.                         | M 			 |
 | 2 | BEHEERDER 	 | wil dienst verwijderen             						  | ik diensten die ik niet meer doe kan verwijderen.       | M 			 |
