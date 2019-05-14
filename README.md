@@ -44,6 +44,23 @@ Deze fase duurt 3 weken
 [planning]: doc/fase-1/planning.md
 [plan van aanpak]: doc/fase-1/plan-van-aanpak.md
 [user stories]: doc/fase-1/user-stories.md
+
+## User stories
+
+| als       | kan ik                      | zodat ik (resultaat)                                        | prioriteit (\*) |     |
+| --------- | --------------------------- | ----------------------------------------------------------- | --------------- | --- |
+| gebruiker | een afb aanklikken          | die kan bekijken in een modaal venster                      |                 | C   |
+| gebruiker | een zoekveld gebruiken      | sneller informatie kan vinden                               |                 | M   |
+| gebruiker | gebruiken op alle apparaten | op alle apparaten de website kan bezoeken (responsive grid) |                 | M   |
+| gebruiker | contactinfo onderaan vinden | ik contact kan opnemen                                      |                 | S   |
+| gebruiker | een mail sturen (formulier) | ik contact kan leggen                                       |                 | M   |
+|           |                             |                                                             |                 |     |
+| admin     | alleen in het cms komen     | de website veilig kan onderhouden (username en password)    |                 | M   |
+| admin     | fotos beheren in de DB      | zodat ik ze kan verwijderen of aanpassen                    |                 | M   |
+| admin     | tekst beheren in de DB      | zodat ik ze kan verwijderen of aanpassen                    |                 | M   |
+| admin     | Tekst toevoegen             | zodat de gebruikers geinformeerd worden met tekst           |                 | M   |
+| admin     | Fotos toevoegen             | zodat de gebruikers visueel geinformeerd                    |                 | M   |
+
 [design]: doc/fase-1/design/design.md/
 [fo]: /doc/fase-1/functioneel-ontwerp.md
 [flow]: doc/fase-1/flow.svg
