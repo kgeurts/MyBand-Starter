@@ -1,4 +1,4 @@
-## MyBand kliMAat
+## MyBand MA-klimaat
 
 www.regiliospee.nl/proj/my-band/ is een website van Regilio Spee waar gebruikers kunnen (..nut geb0m
 ruiker..) bedoeld voor jong en oud
