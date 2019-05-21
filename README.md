@@ -41,7 +41,7 @@ Deze fase duurt 3 weken
 [kwalificatiedossier]: https://kwalificaties.s-bb.nl/Handlers/DocumentLibrary.ashx?id=276758
 [readme.md]: https://github.com/JouwGithubNaam/myband/blob/master/README.md
 [debriefing]: https://github.com/RegilioSpee/MyBand-Starter/blob/master/doc/fase-1/DEBRIEFING.pdf
-[planning]: doc/fase-1/planning.md
+[planning]: https://trello.com/b/nLCetBiP/proj-planning-myband
 [plan van aanpak]: https://github.com/RegilioSpee/MyBand-Starter/blob/master/doc/fase-1/plan-van-aanpak-my-band-kliMAat.pdf
 [user stories]: https://github.com/RegilioSpee/MyBand-Starter/blob/master/doc/fase-1/backlog-userstories-wireframe.pdf
 
