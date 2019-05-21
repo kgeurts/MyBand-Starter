@@ -42,7 +42,7 @@ Deze fase duurt 3 weken
 [readme.md]: https://github.com/JouwGithubNaam/myband/blob/master/README.md
 [debriefing]: https://github.com/RegilioSpee/MyBand-Starter/blob/master/myband-kliMAat/word/DEBRIEFING.pdf
 [planning]: doc/fase-1/planning.md
-[plan van aanpak]: doc/fase-1/plan-van-aanpak.md
+[plan van aanpak]: https://github.com/RegilioSpee/MyBand-Starter/blob/master/myband-kliMAat/word/plan-van-aanpak-my-band-kliMAat.pdf
 [user stories]: doc/fase-1/user-stories.md
 
 ## User stories
