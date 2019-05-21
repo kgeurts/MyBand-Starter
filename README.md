@@ -28,7 +28,7 @@ Deze fase duurt 3 weken
 | ----------------------------------------------- | ------ | -------------------------- | ----------------------------------------------------- |
 | README                                          | DOING  | [README.md] (dit document) | MarkDown                                              |
 | B1-K1-W1 Debriefing                             | DONE   | [Debriefing]               | PDF                                                   |
-| B1-K1-W2 Planning                               | DOING  | [Planning]                 | Markdown                                              |
+| B1-K1-W2 Planning                               | DONE   | [Planning]                 | Markdown                                              |
 | B1-K1-W2 Plan van aanpak                        | DONE   | [Plan van Aanpak]          | PDF                                                   |
 | B1-K1-W2 User stories                           | DONE   | [User Stories]             | Markdown of Word/RTF                                  |
 | B1-K1-W2 Functioneel ontwerp                    | DOING  | [FO]                       | Markdown of Word/RTF                                  |
@@ -40,7 +40,7 @@ Deze fase duurt 3 weken
 [kwalificatiedossier]: https://kwalificaties.s-bb.nl/Handlers/DocumentLibrary.ashx?id=276758
 [readme.md]: https://github.com/JouwGithubNaam/myband/blob/master/README.md
 [debriefing]: https://github.com/RegilioSpee/MyBand-Starter/blob/master/doc/fase-1/DEBRIEFING.pdf
-[planning]: https://trello.com/b/nLCetBiP/proj-planning-myband
+[planning]: https://github.com/RegilioSpee/MyBand-Starter/blob/master/doc/fase-1/planning.md
 [plan van aanpak]: https://github.com/RegilioSpee/MyBand-Starter/blob/master/doc/fase-1/plan-van-aanpak-my-band-kliMAat.pdf
 [user stories]: https://github.com/RegilioSpee/MyBand-Starter/blob/master/doc/fase-1/backlog-userstories-wireframe.pdf
 
