@@ -1,13 +1,12 @@
 ## MyBand MA-klimaat
 
-www.regiliospee.nl/proj/my-band/ is een website van Regilio Spee waar gebruikers kunnen (..nut geb0m
-ruiker..) bedoeld voor jong en oud
-De website is enigszins te vergelijken met (https://welovetheearth.org/) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+www.regiliospee.nl/proj/my-band/ is een website van Regilio Spee waar gebruikers meer dingen te weten krijgen over het klimaat en wat ze eraan kunen doen, de webpagina is bedoelt voor jong en oud
+De website is enigszins te vergelijken met (https://welovetheearth.org/) of (https://climate.nasa.gov/) maar toch anders omdat ik andere kleuren gebruik en zelf dingen toevoeg.
 
 ### Uniek aan dit concept is:
 
-- eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
-- tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+- eerste u.s.p. ik gebruik mediacollege kleuren
+- tweede u.s.p. ik gebruik een modaal venster voor de afbeeldingen op de landingpage
 
 ---
 
@@ -27,12 +26,12 @@ Deze fase duurt 3 weken
 
 | Milestone                                       | Status | Link                       | Type Document of cloudservice                         |
 | ----------------------------------------------- | ------ | -------------------------- | ----------------------------------------------------- |
-| README                                          | DONE   | [README.md] (dit document) | MarkDown                                              |
+| README                                          | DOING  | [README.md] (dit document) | MarkDown                                              |
 | B1-K1-W1 Debriefing                             | DONE   | [Debriefing]               | PDF                                                   |
 | B1-K1-W2 Planning                               | DOING  | [Planning]                 | Markdown                                              |
-| B1-K1-W2 Plan van aanpak                        | DONE   | [Plan van Aanpak]          | PDF of Word/RTF                                       |
+| B1-K1-W2 Plan van aanpak                        | DONE   | [Plan van Aanpak]          | PDF                                                   |
 | B1-K1-W2 User stories                           | DONE   | [User Stories]             | Markdown of Word/RTF                                  |
-| B1-K1-W2 Functioneel ontwerp                    | TODO   | [FO]                       | Markdown of Word/RTF                                  |
+| B1-K1-W2 Functioneel ontwerp                    | DOING  | [FO]                       | Markdown of Word/RTF                                  |
 | B1-K1-W2 Flowchart                              | TODO   | [Flow]                     | Afbeelding(en) of geexporteerd uit http://draw.io     |
 | B1-K1-W2 Urenschatting                          | TODO   | [Urenschatting]            | Markdown                                              |
 | B1-K1-W2 Wireframes en/of Interactief prototype | TODO   | [axShare]                  | Axshare link of link naar ander online prototype tool |
@@ -75,18 +74,18 @@ Deze fase duurt 3 weken
 | B1-K1-W2 Sprint planning 1, 2 en 3 | DONE   | [Trello] / [Trello Tips] | https://trello.com/b/nLCetBiP/proj-planning-myband |  |
 | B1-K1-W3 Technisch Ontwerp         | TODO   | [TO]                     | Markdown of Word/RTF |  |
 
-[backlog]: /doc/fase-2/technisch-ontwerp.md
+[backlog]: https://github.com/RegilioSpee/MyBand-Starter/blob/master/doc/fase-1/backlog-userstories-wireframe.pdf
 [to]: /doc/fase-2/technisch-ontwerp.md
 [trello]: https://trello.com/b/nLCetBiP/proj-planning-myband
 [trello tips]: https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work
 
 #### Fase 3: Testen en opleveren van het project
 
-| Milestone                                    | Status | Link                                 |
-| -------------------------------------------- | ------ | ------------------------------------ |
-| B1-K3-W2 Link naar de live omgeving          | TODO   | <"www.regiliospee.nl/proj/my-band/"> |
-| B1-K3-W2 Gebruikersdocumentatie / instructie | TODO   | [Gebruikers documentatie]            |
-| B1-K3-W3 Evaluatie                           | TODO   | [Evaluatie]                          |
+| Milestone                                    | Status | Link                               |
+| -------------------------------------------- | ------ | ---------------------------------- |
+| B1-K3-W2 Link naar de live omgeving          | TODO   | [www.regiliospee.nl/proj/my-band/] |
+| B1-K3-W2 Gebruikersdocumentatie / instructie | TODO   | [Gebruikers documentatie]          |
+| B1-K3-W3 Evaluatie                           | TODO   | [Evaluatie]                        |
 
 [gebruikers documentatie]: doc/fase-3/gebruikersdocumentatie.md
 [evaluatie]: doc/fase-3/evaluatie.md
