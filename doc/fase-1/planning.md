@@ -12,10 +12,10 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 | ------ |------ | ---- | ------ |---- |------ |---- | 
 | 1ste uur | FRO | | | | |  |
 | 2de uur  | FRO | | | | |  |
-| 3de uur  | | | | | |  |
+| 3de uur  | |PROJ | | | |  |
 | 4de uur  | | | | | |  |
-| 5de uur  | | | | | |  |
-| 6de uur  | | | | | |  |
+| 5de uur  | | | PROJ | | |  |
+| 6de uur  | | | | PROJ | |  |
 | 7de uur  | | | | | |  |
 | 8de uur  | | | | | |  |
 
