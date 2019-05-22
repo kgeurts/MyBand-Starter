@@ -62,7 +62,7 @@ Deze fase duurt 3 weken
 
 [design]: doc/fase-1/design/design.md/
 [fo]: /doc/fase-1/functioneel-ontwerp.md
-[flow]: doc/fase-1/flow.svg
+[flow]: doc/fase-1/flowchart.png
 [urenschatting]: doc/fase-1/urenschatting.md
 [axshare]: http://w2d1bw.axshare.com/
 
