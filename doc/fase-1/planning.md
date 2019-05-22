@@ -5,7 +5,7 @@ _Dit is versie 0.0_
 
 |          | ma 6/5 | di 7/5 | wo 8/5 | do 9/5 | vr 10/5 | weekend |
 | -------- | ------ | ------ | ------ | ------ | ------- | ------- |
-| 1ste uur | ABSENT | CMS    |        |        | PROJ    |         |
+| 1ste uur | ABSENT | CMS    |RIJEXAMEN|        | PROJ    |         |
 | 2de uur  | FRO    | CMS    |RIJEXAMEN|        | PROJ    |         |
 | 3de uur  |        | PROJ   |RIJEXAMEN| BAP    | FRO     |         |
 | 4de uur  |        | UXD    |        | BAP    | FRO     |         |
@@ -18,14 +18,14 @@ _Dit is versie 0.0_
 
 |          | ma 13/5 | di 14/5 | wo 15/5 | do 16/5   | vr 17/5 | weekend |
 | -------- | ------- | ------- | ------- | --------- | ------- | ------- |
-| 1ste uur | FRO     | CMS     | BAP     | STUDIEDAG | ABSENT  |         |
-| 2de uur  | FRO     | CMS     | BAP     | STUDIEDAG | PROJ    |         |
-| 3de uur  |         | PROJ    |         | STUDIEDAG | FRO     |         |
-| 4de uur  |         | UXD     |         | STUDIEDAG | FRO     |         |
-| 5de uur  |         | UXD     | PROJ    | STUDIEDAG |         |         |
-| 6de uur  |         |         | PROJ    | STUDIEDAG |         |         |
-| 7de uur  |         |         |         | STUDIEDAG |         |         |
-| 8ste uur |         |         |         | STUDIEDAG |         |         |
+| 1ste uur | ZIEK    | ABSENT  | BAP     | STUDIEDAG | ABSENT  |         |
+| 2de uur  | ZIEK    | CMS     | BAP     | STUDIEDAG | PROJ    |         |
+| 3de uur  | ZIEK    | PROJ    |         | STUDIEDAG | FRO     |         |
+| 4de uur  | ZIEK    | UXD     |         | STUDIEDAG | FRO     |         |
+| 5de uur  | ZIEK    | UXD     | PROJ    | STUDIEDAG |         |         |
+| 6de uur  | ZIEK    |         | PROJ    | STUDIEDAG |         |         |
+| 7de uur  | ZIEK    |         |         | STUDIEDAG |         |         |
+| 8ste uur | ZIEK    |         |         | STUDIEDAG |         |         |
 
 ##### WEEK 3
 
