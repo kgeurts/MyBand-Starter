@@ -19,7 +19,7 @@ _Dit is versie 0.0_
 | 5de uur  |        | UXD    | PROJ   |        | WVO     |         |
 | 6de uur  |        |        | PROJ   |        |         |         |
 | 7de uur  |        |        |        |        |         |         |
-| 8de uur  |        |        |        |        |         |         |
+| 8ste uur |        |        |        |        |         |         |
 
 ##### WEEK 2
 
@@ -32,7 +32,7 @@ _Dit is versie 0.0_
 | 5de uur  |         | UXD     | PROJ    | STUDIEDAG | WVO     |         |
 | 6de uur  |         |         | PROJ    | STUDIEDAG |         |         |
 | 7de uur  |         |         |         | STUDIEDAG |         |         |
-| 8de uur  |         |         |         | STUDIEDAG |         |         |
+| 8ste uur |         |         |         | STUDIEDAG |         |         |
 
 ##### WEEK 3
 
@@ -45,7 +45,7 @@ _Dit is versie 0.0_
 | 5de uur  |         | GGD-afspraak | PROJ    |         | WVO     |         |
 | 6de uur  |         |              | PROJ    |         |         |         |
 | 7de uur  |         |              |         |         |         |         |
-| 8de uur  |         |              |         |         |         |         |
+| 8ste uur |         |              |         |         |         |         |
 
 ##### WEEK 4
 
@@ -58,7 +58,7 @@ _Dit is versie 0.0_
 | 5de uur  |         | UXD     | PROJ     | HEMELVAART | VRIJ    |         |
 | 6de uur  |         |         | EXCURSIE | HEMELVAART | VRIJ    |         |
 | 7de uur  |         |         | EXCURSIE | HEMELVAART | VRIJ    |         |
-| 8de uur  |         |         | EXCURSIE | HEMELVAART | VRIJ    |         |
+| 8ste uur |         |         | EXCURSIE | HEMELVAART | VRIJ    |         |
 
 ##### WEEK 5
 
@@ -71,7 +71,7 @@ _Dit is versie 0.0_
 | 5de uur  |        | UXD    | VRIJ   |        | WVO    |         |
 | 6de uur  |        |        | VRIJ   |        |        |         |
 | 7de uur  |        |        | VRIJ   |        |        |         |
-| 8de uur  |        |        | VRIJ   |        |        |         |
+| 8ste uur |        |        | VRIJ   |        |        |         |
 
 ##### WEEK 6
 
@@ -84,7 +84,7 @@ _Dit is versie 0.0_
 | 5de uur  | VRIJ    | UXD     | PROJ     | VRIJ    | WVO     |         |
 | 6de uur  | VRIJ    |         | PROJ     | VRIJ    |         |         |
 | 7de uur  | VRIJ    |         |          | VRIJ    |         |         |
-| 8de uur  | VRIJ    |         |          | VRIJ    |         |         |
+| 8ste uur | VRIJ    |         |          | VRIJ    |         |         |
 
 ##### WEEK 7
 
@@ -97,4 +97,4 @@ _Dit is versie 0.0_
 | 5de uur  |         | UXD     | PROJ    |         | WVO     |         |
 | 6de uur  |         |         | PROJ    |         |         |         |
 | 7de uur  |         |         |         |         |         |         |
-| 8de uur  |         |         |         |         |         |         |
+| 8ste uur |         |         |         |         |         |         |
