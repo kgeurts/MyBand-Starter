@@ -1,5 +1,5 @@
 ## Netflix News
-http://project.kevin-geurts.nl/ is een website van Kevin waar Netflix alle nieuwste info kunnen zien over Netflix en zijn series.
+http://project.kevin-geurts.nl/index.php?page=homepagina is een website van Kevin waar Netflix alle nieuwste info kunnen zien over Netflix en zijn series.
 De website is enigszins te vergelijken met de Twitter van Netflix of https://www.netflix-nederland.nl/ maar toch anders omdat deze website de nieuwste info heeft!
 
 ### Uniek aan dit concept is:
