@@ -1,7 +1,7 @@
 <?php
 function database(){
 try {
-	$pdo = new PDO( 'mysql:host=localhost;dbname=u302406342_kevin;charset=utf8', 'u302406342_kevin', 'Y1o232nkkguZ' );
+	$pdo = new PDO( 'mysql:host=localhost;dbname=myband;charset=utf8', 'root', '' );
 	$pdo->setAttribute( PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
 	$pdo->setAttribute( PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC );
 	 return $pdo;

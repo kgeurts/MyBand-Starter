@@ -8,9 +8,13 @@
 <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="dist/css/basicResponsiveMenu.css">
         <link rel="stylesheet" href="css/footer-distributed-with-search.css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <link href='js/fullcalendar.min.css' rel='stylesheet' />
+<link href='js/fullcalendar.print.min.css' rel='stylesheet' media='print' />
+        <script src='js/lib/moment.min.js'></script>
+<script src='js/lib/jquery.min.js'></script>
+<script src='js/fullcalendar.min.js'></script>
     <script src="dist/js/basicResponsiveMenu.js"></script>
-    <script src='js/lib/jquery.min.js'></script>
-
 
 
 <style>

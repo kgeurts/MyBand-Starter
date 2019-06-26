@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset='utf-8' />
-<link href='js/fullcalendar.min.css' rel='stylesheet' />
-<link href='js/fullcalendar.print.min.css' rel='stylesheet' media='print' />
+
+
+<?php include 'header-agenda.php';?>
+
 
 <script>
 
@@ -52,11 +50,10 @@ foreach ( $statement as $db   ): $i++?>
 </style>
 </head>
 <body>
-<?php include 'header.php';?>
 <h3 style="text-align: center;">Kalender opkomende series en film's op netflix.</h3>
   <div id='calendar'></div>
 
-    <script src="dist/js/basicResponsiveMenu.js"></script>
+
     <script>
         $(function(){
             $('.response--main-navigation').basicResponsiveMenu({
@@ -66,6 +63,7 @@ foreach ( $statement as $db   ): $i++?>
             });
         });
     </script>
+
   <?php include "footer.php" ?>
 </body>
 </html>
