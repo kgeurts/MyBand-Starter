@@ -1,5 +1,5 @@
 ## Netflix News
-http://project.kevin-geurts.nl/index.php?page=homepagina is een website van Kevin waar Netflix alle nieuwste info kunnen zien over Netflix en zijn series.
+http://project.kevin-geurts.nl/index.php?page=homepage is een website van Kevin waar Netflix alle nieuwste info kunnen zien over Netflix en zijn series.
 De website is enigszins te vergelijken met de Twitter van Netflix of https://www.netflix-nederland.nl/ maar toch anders omdat deze website de nieuwste info heeft!
 
 ### Uniek aan dit concept is:
@@ -28,7 +28,7 @@ Deze fase duurt 3 weken
 | B1-K1-W2 Planning                                 | DONE | [Planning]                           | Markdown |
 | B1-K1-W2 Plan van aanpak                          | DONE | [Plan van Aanpak]                    | Markdown of Word/RTF|
 | B1-K1-W2 User stories                             | DONE | [User Stories]                       | Markdown of Word/RTF|
-| B1-K1-W2 Functioneel ontwerp                      | DONE | [FO]                                 | Linkje|
+| B1-K1-W2 Functioneel ontwerp                      | TODO | [FO]                                 | Linkje|
 | B1-K1-W2 Flowchart                                | DONE | [Flow]                               | Afbeelding(en) of geexporteerd uit http://draw.io |
 | B1-K1-W2 Urenschatting                            | DONE | [Urenschatting]                      | Markdown |
 | B1-K1-W2 Wireframes en/of Interactief prototype   | DONE | [axShare]                            | Axshare link of link naar ander online prototype tool |
